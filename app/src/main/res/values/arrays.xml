@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country" >
+        <item>Uzbekistan</item>
+        <item>Turkmenistan</item>
+        <item>Kyrgyzstan</item>
+        <item>Kazakhstan</item>
+        <item>Tajikistan</item>
+    </string-array>
+</resources>
